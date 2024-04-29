@@ -1,2 +1,2 @@
 # Veterinaria_Huellitas
-Web para la veterinaria huellitas
+Web para la veterinaria huellitas y sus amigos
