@@ -54,7 +54,7 @@ function Register() {
   };
 
   return (
-    <div className="max-w-md mx-auto">
+    <div className="max-w-md mx-auto" id="register">
       <h2 className="text-2xl font-bold mb-4">Registro de Usuario</h2>
       <form onSubmit={handleSubmit} className="space-y-4">
         <div>

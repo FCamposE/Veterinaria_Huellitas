@@ -13,9 +13,9 @@ a {
   @apply text-red-700;
 }
 
-a:hover {
+/*.navlinks:hover {
   @apply border-b-2 border-red-700;
-}
+}*/
 
 
 

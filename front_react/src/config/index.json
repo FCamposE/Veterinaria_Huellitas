@@ -5,24 +5,24 @@
   },
   "navigation": [
     {
-      "name": "Product",
-      "href": "product"
+      "name": "Inicio",
+      "href": "inicio"
     },
     {
-      "name": "Features",
+      "name": "Servicios",
       "href": "features"
     },
     {
-      "name": "Register",
-      "href": "register"
-    },
-    {
-      "name": "Pricing",
+      "name": "Sedes",
       "href": "pricing"
     },
     {
-      "name": "About",
-      "href": "about"
+      "name": "Contacto",
+      "href": "pricing"
+    },
+    {
+      "name": "Registro",
+      "href": "../pages/login"
     }
   ],
   "callToAction": {
@@ -30,21 +30,21 @@
     "href": "#"
   },
   "mainHero": {
-    "title": "Use me as your",
-    "subtitle": "landing page.",
-    "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
-    "img": "/assets/images/happyTeam.jpeg",
+    "title": "¡Hola! Somos",
+    "subtitle": "Huellitas.",
+    "description": "Nos dedicamos con pasión y cariño al cuidado integral de tus mascotas, ofreciendo servicios de calidad para garantizar su bienestar y salud. Nuestro equipo de profesionales está aquí para brindarte la mejor atención veterinaria y asesorarte en todo lo que necesites.",
+    "img": "/assets/images/mainheroimage.jpg",
     "primaryAction": {
-      "text": "Get started",
+      "text": "Reservar cita",
       "href": "#"
     },
     "secondaryAction": {
-      "text": "Email us",
-      "href": "mailto:issaafakattan@gmail.com?subject=I like react landing page!"
+      "text": "Contáctanos",
+      "href": "#"
     }
   },
   "product": {
-    "title": "React landing page 2021",
+    "title": "Nuestras Sedes",
     "items": [
       {
         "title": "A plug n play template",
